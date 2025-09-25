@@ -42,6 +42,6 @@ git clone https://github.com/rachitneedcse/Uber_Rides_Data_Anlysis.git
 cd Uber-Rides-Data-Analysis
 pip install -r requirements.txt
 jupyter notebook Uber_Rides_Data_Analysis.ipynb
-
+```
 #Sample
 <img src= "Dashboard.png">
