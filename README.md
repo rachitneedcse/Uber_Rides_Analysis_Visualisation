@@ -43,4 +43,5 @@ cd Uber-Rides-Data-Analysis
 pip install -r requirements.txt
 jupyter notebook Uber_Rides_Data_Analysis.ipynb
 
+#Sample
 <img src= "Dashboard.png">
